@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Indie Game<br>👯 I’m looking to collaborate on AI/Machine learning<br>🌱 I’m currently learning RUST and Embedded computing 
+🔭 I’m currently working for an Indie Game studio<br>👯 I’m looking to collaborate on AI/Machine learning<br>🌱 I’m currently learning RUST and Embedded computing 
 
 
 ## 🌐 Socials:
